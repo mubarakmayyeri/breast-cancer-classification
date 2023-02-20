@@ -18,7 +18,9 @@ Link to dataset - https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-
 Used count plot for finding out whether the given dataset is balanced. I looked at the distributions of the features and analyzed correlation of the variables for finding out multicollinearity.
  Below are a few highlights from exploratory data analysis. 
 
-![alt text](https://github.com/mubarakmayyeri/breast-cancer-classification/blob/master/images/cancer_count.jpg "No. of observations for each output")
+**Count Plot of Output**
+![alt text](https://github.com/mubarakmayyeri/breast-cancer-classification/blob/master/images/cancer_count.jpg "No. of observations for each output")  
+**Correlation Heatmap**
 ![alt text](https://github.com/mubarakmayyeri/breast-cancer-classification/blob/master/images/correlation.jpg "Correlation Heatmap")
 
 
